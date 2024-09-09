@@ -7,7 +7,7 @@
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=sarapacheco-user&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=great-gatsby"\>
   <img width="39%" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sarapacheco-user&layout=compact&theme=great-gatsby"\>
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarapacheco-user&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ##
 
 <div style="display: inline_block"><br>
