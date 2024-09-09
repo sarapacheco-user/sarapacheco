@@ -5,7 +5,7 @@
 
 <div> 
   
-  <img width="50%" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sarapacheco-user&layout=compact&theme=great-gatsby"\>
+  
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarapacheco-user&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 </div>
